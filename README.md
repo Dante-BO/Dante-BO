@@ -2,4 +2,3 @@
 - 👀 I’m interested in Computer Graphics, 3D human reconstruction, Computer Vision, Generative Adversarial Networks and so on.
 - 🌱 I’m currently learning 3D human reconstruction.
 - 💞️ I’m looking to collaborate on things above.
-- 📫 How to reach me : just email me with <a href="mailto:dante.bo1037@gmail.com" class="email-text">dante.bo1037@gmail.com</a>
